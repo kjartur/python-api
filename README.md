@@ -1,4 +1,5 @@
-<h1>Device Registry Service</h1>
+<h1>A Dockerized Python API</h1>
+<h2>Device Registry Service</h2>
 Usage
 
 All responses will have the form
