@@ -1,4 +1,4 @@
-Device Registry Service
+<h1>Device Registry Service</h1>
 Usage
 
 All responses will have the form
